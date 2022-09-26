@@ -2,4 +2,4 @@
 Ajax PHP Mysql Live Search  
 $("id").keyup(function(){  
 $ Demo
-![]('demo.gif')
+![](demo.gif)
