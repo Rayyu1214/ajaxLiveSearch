@@ -1,4 +1,4 @@
 # ajaxLiveSearch
 Ajax PHP Mysql Live Search
-$("id").keyup(function(){
+$("id").keyup(function(){  
 $ Demo
