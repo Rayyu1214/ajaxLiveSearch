@@ -1,4 +1,5 @@
 # ajaxLiveSearch
-Ajax PHP Mysql Live Search
+Ajax PHP Mysql Live Search  
 $("id").keyup(function(){  
 $ Demo
+![]('demo.gif')
