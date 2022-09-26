@@ -1,5 +1,4 @@
 <?php
-// echo $_POST['name'];
 $host = 'localhost';
 $db = 'test';
 $user = 'root';
